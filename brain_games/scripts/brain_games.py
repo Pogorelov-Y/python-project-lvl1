@@ -4,12 +4,15 @@
 from brain_games.cli import say_your_name
 
 
+introduction = 'Welcome to the Brain Games!\n'
+
+
 def greeting(hello):
     print(hello)
 
 
 def main():
-    greeting('Welcome to the Brain Games!')
+    greeting(introduction)
     say_your_name()
 
 
