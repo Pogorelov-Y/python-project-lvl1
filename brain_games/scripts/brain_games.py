@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 
-from brain_games.cli import say_your_name
+from brain_games.games.run import say_your_name
 
 
 introduction = 'Welcome to the Brain Games!\n'
