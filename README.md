@@ -7,3 +7,7 @@
 # Игра "Проверка на четность"
 
 <a href="https://asciinema.org/a/Mh5PUbzBunCzJXdnSwMVzrr1v" target="_blank"><img src="https://asciinema.org/a/Mh5PUbzBunCzJXdnSwMVzrr1v.svg" /></a>
+
+# Игра "Калькулятор"
+
+<a href="https://asciinema.org/a/cvpoJfokvNJrTcWwpyFI9BPJj" target="_blank"><img src="https://asciinema.org/a/cvpoJfokvNJrTcWwpyFI9BPJj.svg" /></a>

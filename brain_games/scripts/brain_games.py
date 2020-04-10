@@ -1,19 +1,17 @@
 #!/usr/bin/env python
 
 
-from brain_games.games.run import say_your_name
+import prompt
 
 
-introduction = 'Welcome to the Brain Games!\n'
-
-
-def greeting(hello):
-    print(hello)
+def hello():
+    print("Welcome to the Brain Games!")
+    name = prompt.string("May I have your name? ")
+    print(f"Hello, {name}!")
 
 
 def main():
-    greeting(introduction)
-    say_your_name()
+    hello ()
 
 
 if __name__ == '__main__':
