@@ -14,7 +14,8 @@ def run(games):
             print("Correct")
             attempts -= 1
         else:
-            print(f"'{answer}' is wrong answer ;(. Correct answer was '{question_result}'.")
+            print("'{}' is wrong answer ;(. Correct answer was '{}'."
+                  .format(answer, question_result))
             print(f"Let's try again, {name}!")
             break
     if attempts == 0:
