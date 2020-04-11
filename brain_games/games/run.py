@@ -2,6 +2,7 @@ import prompt
 
 
 def run(games):
+    """Play the game with question and answer string"""
     print("Welcome to the Brain Games!")
     print(games.game_rules)
     name = prompt.string("May I have your name? ")

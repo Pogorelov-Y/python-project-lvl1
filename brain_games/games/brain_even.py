@@ -5,6 +5,7 @@ game_rules = 'Answer "yes" if number even otherwise answer "no".\n'
 
 
 def round():
-    number = random.randint(1, 2)
+    """Make random natural numbers to determine its parity"""
+    number = random.randint(1, 100)
     question_result = "yes" if number % 2 == 0 else "no"
     return number, question_result
