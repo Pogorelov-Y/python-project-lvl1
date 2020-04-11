@@ -14,3 +14,6 @@
 
 ## Игра "Самый большой общий делитель"
 <a href="https://asciinema.org/a/OWyC5Aq5N02ACGtzO7uaPdXcE" target="_blank"><img src="https://asciinema.org/a/OWyC5Aq5N02ACGtzO7uaPdXcE.svg" /></a>
+
+## Игра "Арифметическая прогрессия"
+<a href="https://asciinema.org/a/mArqqNkH3EAVrDlokTxA7TZi2" target="_blank"><img src="https://asciinema.org/a/mArqqNkH3EAVrDlokTxA7TZi2.svg" /></a>
