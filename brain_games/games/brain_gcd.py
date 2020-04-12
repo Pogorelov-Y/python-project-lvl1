@@ -34,7 +34,7 @@ def question(data):
                           get_number2(data))
 
 
-game_rules = 'Find the greatest common divisor of given numbers.\n'
+GAME_RULES = 'Find the greatest common divisor of given numbers.\n'
 
 
 def round():

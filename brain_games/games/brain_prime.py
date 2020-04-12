@@ -17,7 +17,7 @@ def is_prime(number):
     return i * i > number
 
 
-game_rules = 'Answer "yes" if given number is prime. Otherwise answer "no".\n'
+GAME_RULES = 'Answer "yes" if given number is prime. Otherwise answer "no".\n'
 
 
 def round():

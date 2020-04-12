@@ -1,8 +1,15 @@
 [tool.poetry]
 name = "Pogorelov-Y_brain_games"
-version = "0.4.5"
+version = "0.4.7"
 description = ""
 authors = ["Yurii .p <stroitelisf@yandex.ru>"]
+readme = "README.md"
+homepage = "https://github.com/Pogorelov-Y/python-project-lvl1"
+repository = "https://github.com/Pogorelov-Y/python-project-lvl1"
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Topic :: Games/Entertainment :: Puzzle Games"
+]
 packages = [
   { include = "brain_games" },
 ]

@@ -46,7 +46,7 @@ def question(data):
                               get_number2(data))
 
 
-game_rules = 'What is the result of the expression?\n'
+GAME_RULES = 'What is the result of the expression?\n'
 
 
 def round():

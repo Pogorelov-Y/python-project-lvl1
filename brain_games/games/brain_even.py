@@ -1,7 +1,7 @@
 import random
 
 
-game_rules = 'Answer "yes" if number even otherwise answer "no".\n'
+GAME_RULES = 'Answer "yes" if number even otherwise answer "no".\n'
 
 
 def round():

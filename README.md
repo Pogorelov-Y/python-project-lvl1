@@ -1,8 +1,18 @@
 # python-project-lvl1
 
+## Project description
 [![Build Status](https://travis-ci.org/Pogorelov-Y/python-project-lvl1.svg?branch=master)](https://travis-ci.org/Pogorelov-Y/python-project-lvl1)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/0e111ba30f1b9273cdeb/test_coverage)](https://codeclimate.com/github/Pogorelov-Y/python-project-lvl1/test_coverage)
 [![Maintainability](https://api.codeclimate.com/v1/badges/0e111ba30f1b9273cdeb/maintainability)](https://codeclimate.com/github/Pogorelov-Y/python-project-lvl1/maintainability)
+
+pogorelov-y-brain-games is a Python package with a set of logic mini games
+
+## Installing
+
+1. python3 -m pip install --no-cache-dir --index-url https://test.pypi.org/simple --extra-index-url https://pypi.org/simple pogorelov-y-brain-games
+2. or clone repository by https://github.com/Pogorelov-Y/python-project-lvl1.git
+
+# Examples of mini games
 
 ## Игра "Проверка на четность"
 

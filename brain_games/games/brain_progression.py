@@ -26,7 +26,7 @@ def make_progression(data):
     return list
 
 
-game_rules = 'What number is missing in the progression?\n'
+GAME_RULES = 'What number is missing in the progression?\n'
 
 
 def round():

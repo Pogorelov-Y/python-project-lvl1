@@ -4,7 +4,7 @@ import prompt
 def run(games):
     """Play the game with question and answer string"""
     print("Welcome to the Brain Games!")
-    print(games.game_rules)
+    print(games.GAME_RULES)
     name = prompt.string("May I have your name? ")
     print(f"Hello, {name}!")
     attempts = 3
